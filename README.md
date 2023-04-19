@@ -1,2 +1,2 @@
 # Inverted-Index-Map-Reduce
-Create an inverted index for looking up the words in files
+Create an inverted index for looking up the words in files using hadoop framework.
